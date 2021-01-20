@@ -1,5 +1,5 @@
-%% Example of cyber-attack detection in power grids
-% using functional observers and target state estimation.
+%% Example of sensor placement and observer design for
+% target state estimation in epidemics.
 %
 % References:
 %
